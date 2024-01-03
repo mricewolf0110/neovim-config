@@ -1,4 +1,4 @@
 local keymap = vim.keymap
 
 -- neotree open
-keymap.set('n', '<C-n>', ':Neotree filesystem reveal left<CR>', {})
+keymap.set('n', '<C-e>', ':Neotree toggle<CR>', {})

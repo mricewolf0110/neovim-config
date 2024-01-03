@@ -40,5 +40,3 @@ opt.mouse = "a"
 opt.clipboard:append("unnamedplus")
 opt.modifiable = true
 opt.encoding = "UTF-8"
-
-return opt
